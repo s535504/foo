@@ -1,3 +1,0 @@
-[submodule "gorm"]
-	path = gorm
-	url = https://github.com/go-gorm/gorm
