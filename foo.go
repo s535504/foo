@@ -3,5 +3,5 @@ package foo
 import "fmt"
 
 func Run() {
-	fmt.Println("foo")
+	fmt.Println("foobar")
 }
